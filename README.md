@@ -10,3 +10,6 @@ If you don't know how to change command, go to tuuningit/client/main.lua and fin
 RegisterCommand("maxtunes", function(source)
 ```
 Change "maxtunes"
+
+
+Preview: https://streamable.com/qqn6tj
